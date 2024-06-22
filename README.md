@@ -1,37 +1,29 @@
-# Limpieza de Datos de Airbnb con Python
+# Airbnb Data Cleaning with Python
 
-En este proyecto, me dediqué exclusivamente a la limpieza de un conjunto de datos de Airbnb disponible públicamente, 
-utilizando Python como herramienta principal. El objetivo fue asegurar que los datos estuvieran libres de errores y preparados para un análisis posterior.
+In this project, I focused exclusively on cleaning a publicly available Airbnb dataset, using Python as the primary tool. The goal was to ensure that the data was error-free and ready for subsequent analysis.
 
-### Fases del Proyecto:
+## Project Phases:
 
-### Exploración Inicial del Dataset:
+## Initial Dataset Exploration:
 
-Comencé con una exploración inicial del dataset para comprender su estructura y contenido. 
-Utilicé las bibliotecas pandas y numpy para cargar los datos y obtener estadísticas descriptivas básicas. 
-Esta etapa fue crucial para identificar problemas potenciales y planificar la limpieza de los datos.
+I started with an initial exploration of the dataset to understand its structure and content. I used the pandas and numpy libraries to load the data and obtain basic descriptive statistics. This stage was crucial for identifying potential issues and planning the data cleaning process.
 
-### Limpieza de Datos:
+## Data Cleaning:
 
-* Manejo de Valores Faltantes: Identifiqué columnas con valores faltantes y apliqué estrategias adecuadas, como la imputación con valores promedio, mediana o la eliminación de filas/columnas cuando fuera necesario.
-* Corrección de Tipos de Datos: Aseguré que todas las columnas tuvieran el tipo de dato correcto, convirtiendo fechas de tipo string a datetime y ajustando otras variables según fuera necesario.
-* Eliminación de Duplicados: Revisé y eliminé filas duplicadas para evitar distorsiones en los análisis futuros.
-* Tratamiento de Valores Atípicos: Detecté y gestioné valores atípicos utilizando métodos estadísticos, como los percentiles,
-para garantizar que no afectaran negativamente el análisis.
+* Handling Missing Values: I identified columns with missing values and applied appropriate strategies, such as imputing with mean or median values, or removing rows/columns when necessary.
+* Correcting Data Types: I ensured that all columns had the correct data type, converting date strings to datetime objects and adjusting other variables as needed.
+* Removing Duplicates: I reviewed and removed duplicate rows to avoid distortions in future analyses.
+* Handling Outliers: I detected and managed outliers using statistical methods, such as percentiles, to ensure they did not negatively impact the analysis.
 
-### Validación de la Limpieza:
+## Cleaning Validation:
 
-Realicé una revisión exhaustiva para asegurarme de que todas las etapas de limpieza se hubieran implementado correctamente
-y de que los datos estuvieran listos para un análisis más profundo. Verifiqué la consistencia y coherencia de los datos después de cada etapa de limpieza.
+I conducted a thorough review to ensure that all cleaning stages had been correctly implemented and that the data was ready for deeper analysis. I checked the consistency and coherence of the data after each cleaning stage.
 
-### Documentación del Proceso:
+## Process Documentation:
 
-Documenté cada paso del proceso de limpieza, proporcionando un registro claro y detallado de las acciones tomadas. 
-Esto incluyó la justificación de las decisiones de limpieza y cualquier cambio significativo realizado en los datos.
+I documented each step of the cleaning process, providing a clear and detailed record of the actions taken. This included justifying the cleaning decisions and any significant changes made to the data.
 
-Este proyecto resalta mi capacidad para realizar una limpieza exhaustiva de datos utilizando Python, 
-asegurando que el conjunto de datos esté libre de errores y listo para análisis avanzados. 
-La calidad de los datos es fundamental para obtener insights precisos y confiables, y este proyecto demuestra mi competencia en asegurar dicha calidad.
+This project highlights my ability to perform thorough data cleaning using Python, ensuring that the dataset is error-free and ready for advanced analysis. Data quality is essential for obtaining accurate and reliable insights, and this project demonstrates my competence in ensuring such quality.
 
 
 
